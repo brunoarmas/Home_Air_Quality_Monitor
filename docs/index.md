@@ -2,8 +2,8 @@
 
 An easy-to-use, aesthetically pleasing sensor that monitors indoor quality. 
 
-The home is an open source consumer air quality sensor that monitors 9 atmospheric metrics: 
-Air quality index (AQI), carbon monoxide, temperature, humidity, nitrogen oxides, 
+The Home Air is an open source air quality sensor that monitors 9 atmospheric metrics: 
+air quality index (AQI), carbon monoxide, temperature, humidity, nitrogen oxides, 
 airborne particulate matter, volatile organic compounds, carbon dioxide, and natural gas
 
 
